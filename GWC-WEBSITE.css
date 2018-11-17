@@ -1,0 +1,43 @@
+img{
+	display:center;
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+}
+h1{
+	text-align:center;
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+	width:35%;
+	font-size=70px;
+}
+
+h2{
+	font-size:25px;
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+	width:35%;
+}
+h3{
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+	width:35%;
+}
+body{
+	background-color:lightskyblue;
+	color:black;
+}
+
+.words{
+	display:center;
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+	width:35%;
+	
+}
+
+

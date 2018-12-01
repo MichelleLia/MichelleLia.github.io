@@ -53,7 +53,7 @@ body{
 
 #facts
 {	
-	text-align:right;
+	float:right;
 	display:block;/*I dont know*/
 	width: 15%;
 	height:15%;

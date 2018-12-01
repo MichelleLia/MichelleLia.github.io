@@ -43,7 +43,7 @@ body{
 #ads
 {
 	float:left;
-	display:block;/*I dont know*/
+	display:inline-block;/*I dont know*/
 	width: 15%;
 	height:15%;
 	background-color:#FFC0CB;	
@@ -54,7 +54,7 @@ body{
 #facts
 {	
 	float:right;
-	display:block;/*I dont know*/
+	display:inline-block;/*I dont know*/
 	width: 15%;
 	height:15%;
 	background-color:#FFC0CB;	
